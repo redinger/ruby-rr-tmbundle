@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>mock.instance_of(${1:double}).${2:method}${3:(${4:with})} ${5:{${6:return}\}}
+</string>
+	<key>name</key>
+	<string>instance of</string>
+	<key>scope</key>
+	<string>source.ruby</string>
+	<key>tabTrigger</key>
+	<string>inst</string>
+	<key>uuid</key>
+	<string>8B4BB6DA-2D65-4D82-8642-3F769A63C65B</string>
+</dict>
+</plist>
